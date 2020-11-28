@@ -1,7 +1,7 @@
 # Page Object Model C#
 
 ## Introduction
-This is the demo project on Selenium + Page Object Model Design Pattern + NUnit + C#.
+This is a demo project on Selenium + Page Object Model Design Pattern + NUnit + C#.
 
 ## How to use?
 **Pre-requisites:**
