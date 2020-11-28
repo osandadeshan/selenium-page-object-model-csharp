@@ -11,4 +11,4 @@ This is a demo project on Selenium + Page Object Model Design Pattern + NUnit + 
 **Steps:**
 1. Clone this project.
 2. Open the project in Rider or Visual Studio.
-3. Execute **LoginTest.cs** in ***./PageObjectModelCsharp/Test/LoginTest.cs***
+3. Execute "**LoginTest.cs**" in "***./PageObjectModelCsharp/Test/LoginTest.cs***"
